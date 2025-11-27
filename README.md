@@ -10,7 +10,7 @@ The project is built upon the **Pharma\_Sales\_Dataset** and focuses on transfor
 
 The analysis is based on the **pharma-data** dataset , which aims to analyze pharmaceutical sales performance across products, teams, and geographies.
 
-| [cite_start]Main Dimensions [cite: 9] | [cite_start]Main Measures  |
+| Main Dimensions  | Main Measures  |
 | :--- | :--- |
 | Channel | Sales |
 | Country | Quantity |
