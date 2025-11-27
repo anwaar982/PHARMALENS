@@ -56,3 +56,12 @@ The dashboard is divided into two primary, high-value sections: Sales Overview a
 
 * **Detailed Product Table:** Provides a breakdown of sales, quantity, and average price for individual products across **Hospital** and **Pharmacy** channels, summing up to a total of over **1.24 Billion** in sales.
 
+# Dashboard
+<img width="946" height="530" alt="Screenshot 2025-11-27 143308" src="https://github.com/user-attachments/assets/236ea94d-b2e2-4256-a0b8-ce15763a73fd" />
+
+<img width="946" height="530" alt="Screenshot 2025-11-27 143327" src="https://github.com/user-attachments/assets/4a8481a3-9b7a-4bb8-8c65-7c3f829d96b5" />
+
+<img width="946" height="530" alt="Screenshot 2025-11-27 143316" src="https://github.com/user-attachments/assets/b2be4862-c7ee-4a61-a85d-1c2e732215d3" />
+
+
+
