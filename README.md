@@ -51,8 +51,8 @@ The dashboard is divided into two primary, high-value sections: Sales Overview a
 
 * **Key Visuals:**
     * **Total Quantity by Sales Team:** Delta is the top team (31.62% or 5M).
-    * [cite_start]**Total Sales by Product Class:** Analgesics and Antiseptics show the highest total sales[cite: 17, 130, 131].
-    * [cite_start]**Total Sales and Cumulative % by Product Name:** A Pareto-style analysis of top products (e.g., Propra..., Cepho...)[cite: 17, 153].
+    * **Total Sales by Product Class:** Analgesics and Antiseptics show the highest total sales.
+    * **Total Sales and Cumulative % by Product Name:** A Pareto-style analysis of top products (e.g., Propra..., Cepho...).
 
-* [cite_start]**Detailed Product Table:** Provides a breakdown of sales, quantity, and average price for individual products across **Hospital** and **Pharmacy** channels, summing up to a total of over **1.24 Billion** in sales[cite: 171].
+* **Detailed Product Table:** Provides a breakdown of sales, quantity, and average price for individual products across **Hospital** and **Pharmacy** channels, summing up to a total of over **1.24 Billion** in sales.
 
